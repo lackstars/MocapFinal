@@ -765,6 +765,9 @@ MonoBehaviour:
   cullingDistance:
     m_OverrideState: 1
     m_Value: 1000
+  minSolidAngle:
+    m_OverrideState: 1
+    m_Value: 4
 --- !u!114 &-2778322918561902411
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -2164,6 +2167,9 @@ MonoBehaviour:
   tileOpacityThreshold:
     m_OverrideState: 1
     m_Value: 1
+  writeDepthAlphaThreshold:
+    m_OverrideState: 1
+    m_Value: 0
 --- !u!114 &7502528774814404555
 MonoBehaviour:
   m_ObjectHideFlags: 3
